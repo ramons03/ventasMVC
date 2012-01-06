@@ -1,0 +1,7 @@
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\bin\ventaMVC.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\bin\ventaMVC.pdb
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\bin\EntityFramework.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\bin\EntityFramework.xml
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\obj\Release\ventaMVC.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\obj\Release\ventaMVC.pdb

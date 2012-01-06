@@ -1,0 +1,10 @@
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\bin\Release\ventaMVC.Tests.dll.config
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\bin\Release\ventaMVC.Tests.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\bin\Release\ventaMVC.Tests.pdb
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\bin\Release\ventaMVC.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\bin\Release\ventaMVC.pdb
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\obj\Release\ventaMVC.Tests.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\obj\Release\ventaMVC.Tests.pdb
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\bin\Release\EntityFramework.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\bin\Release\EntityFramework.xml

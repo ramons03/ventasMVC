@@ -6,7 +6,7 @@ using System.Data.Entity;
 
 namespace ventaMVC.Models
 {
-    public class ContextInitializer
+    public class ContextInitializer : DropCreateDatabaseIfModelChanges<Context>
     {
         public static void Init()
         {

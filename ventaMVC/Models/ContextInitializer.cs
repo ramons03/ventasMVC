@@ -10,7 +10,7 @@ namespace ventaMVC.Models
     {
         public static void Init()
         {
-            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<Context>());
+            Database.SetInitializer(new DropCreateDatabaseAlways<Context>());
         }
     }
 }

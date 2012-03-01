@@ -5,6 +5,8 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 using ventaMVC.Models;
+using System.Data.Entity;
+using Devtalk.EF.CodeFirst;
 
 namespace ventaMVC
 {
@@ -32,7 +34,7 @@ namespace ventaMVC
 
         protected void Application_Start()
         {
-            ContextInitializer.Init();
+            Database.SetInitializer(new DontDropDbJustCreateTablesIfModelChanged<Context>());
 
             AreaRegistration.RegisterAllAreas();
 

@@ -7,11 +7,11 @@ using Devtalk.EF.CodeFirst;
 
 namespace ventaMVC.Models
 {
-    public class ContextInitializer : DontDropDbJustCreateTablesIfModelChanged<Context>
+    public class ContextInitializer : IDatabaseInitializer<Context>
     {
-        public static void Init()
+        public void InitializeDatabase(Context context)
         {
-            Database.SetInitializer(new DontDropDbJustCreateTablesIfModelChanged<Context>());
+
 
         }
     }

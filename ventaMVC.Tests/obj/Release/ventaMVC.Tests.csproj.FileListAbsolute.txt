@@ -8,3 +8,5 @@ C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\ob
 C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\obj\Release\ventaMVC.Tests.pdb
 C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\bin\Release\EntityFramework.dll
 C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\bin\Release\EntityFramework.xml
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\bin\Release\Devtalk.EF.CodeFirst.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC.Tests\bin\Release\WebActivator.dll

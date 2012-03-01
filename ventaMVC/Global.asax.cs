@@ -33,6 +33,7 @@ namespace ventaMVC
         protected void Application_Start()
         {
             ContextInitializer.Init();
+
             AreaRegistration.RegisterAllAreas();
 
             RegisterGlobalFilters(GlobalFilters.Filters);

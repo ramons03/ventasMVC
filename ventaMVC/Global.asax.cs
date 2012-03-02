@@ -34,7 +34,7 @@ namespace ventaMVC
 
         protected void Application_Start()
         {
-            Database.SetInitializer(new DontDropDbJustCreateTablesIfModelChanged<Context>());
+            Database.SetInitializer<Context>(new DropCreateDatabaseIfModelChanges<Context>());
 
             AreaRegistration.RegisterAllAreas();
 

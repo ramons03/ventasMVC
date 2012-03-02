@@ -5,3 +5,6 @@ C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\bin\Enti
 C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\obj\Debug\ventaMVC.dll
 C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\obj\Debug\ventaMVC.pdb
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\bin\Devtalk.EF.CodeFirst.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\ventaMVC\bin\WebActivator.dll

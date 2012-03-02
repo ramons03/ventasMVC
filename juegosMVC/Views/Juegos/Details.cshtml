@@ -1,0 +1,25 @@
+﻿@model juegosMVC.Models.Juego
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Juego</legend>
+
+    <div class="display-label">Año</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Año)
+    </div>
+
+    <div class="display-label">Titulo</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Titulo)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

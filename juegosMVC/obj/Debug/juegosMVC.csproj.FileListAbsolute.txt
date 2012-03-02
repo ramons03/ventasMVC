@@ -1,0 +1,14 @@
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\juegosMVC\juegosMVC\bin\juegosMVC.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\juegosMVC\juegosMVC\bin\juegosMVC.pdb
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\juegosMVC\juegosMVC\bin\EntityFramework.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\juegosMVC\juegosMVC\bin\EntityFramework.xml
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\juegosMVC\juegosMVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\juegosMVC\juegosMVC\obj\Debug\juegosMVC.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\juegosMVC\juegosMVC\obj\Debug\juegosMVC.pdb
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\juegosMVC\bin\juegosMVC.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\juegosMVC\bin\juegosMVC.pdb
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\juegosMVC\bin\EntityFramework.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\juegosMVC\bin\EntityFramework.xml
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\juegosMVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\juegosMVC\obj\Debug\juegosMVC.dll
+C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\ventaMVC\juegosMVC\obj\Debug\juegosMVC.pdb

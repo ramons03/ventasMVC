@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="50bcb7d6-cd32-474e-8f9a-8d7226f06648" name="RaMoNs@RAMONS-LAPTOP 2012-01-05 20:29:50" runUser="RaMoNs-Laptop\RaMoNs" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Configuración de pruebas predeterminada" id="6050cd55-a76d-41c2-b3a3-7e862851fb6c">
+    <Deployment runDeploymentRoot="RaMoNs_RAMONS-LAPTOP 2012-01-05 20_29_50">
+      <DeploymentItem filename="C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\juegosMVC\juegosMVC\bin\juegosMVC.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-01-05T20:29:50.8470281-03:00" queuing="2012-01-05T20:29:51.3070544-03:00" start="2012-01-05T20:29:51.5970710-03:00" finish="2012-01-05T20:29:54.1182152-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index" storage="c:\users\ramons\documents\visual studio 2010\projects\juegosmvc\juegosmvc.tests\bin\release\juegosmvc.tests.dll" id="64bcf86a-d6d6-2ce4-6310-35b4e2914a46">
+      <Execution id="5cc05b0b-9c07-4943-8183-12fa8b081e50" />
+      <TestMethod codeBase="C:/Users/RaMoNs/Documents/Visual Studio 2010/Projects/juegosMVC/juegosMVC.Tests/bin/Release/juegosMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="juegosMVC.Tests.Controllers.HomeControllerTest, juegosMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="64bcf86a-d6d6-2ce4-6310-35b4e2914a46" executionId="5cc05b0b-9c07-4943-8183-12fa8b081e50" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5cc05b0b-9c07-4943-8183-12fa8b081e50" testId="64bcf86a-d6d6-2ce4-6310-35b4e2914a46" testName="Index" computerName="RAMONS-LAPTOP" duration="00:00:00.1377142" startTime="2012-01-05T20:29:52.5671264-03:00" endTime="2012-01-05T20:29:53.4801787-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5cc05b0b-9c07-4943-8183-12fa8b081e50">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;Welcome to ASP.NET MVC!&gt;, pero es &lt;Welcome to GValley&gt;. </Message>
+          <StackTrace>   en CallSite.Target(Closure , CallSite , Type , String , Object )
+   en System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   en juegosMVC.Tests.Controllers.HomeControllerTest.Index() en C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\juegosMVC\juegosMVC.Tests\Controllers\HomeControllerTest.cs:línea 25
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

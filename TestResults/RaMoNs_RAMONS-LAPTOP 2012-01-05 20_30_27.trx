@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="329b2338-6a33-403d-ab75-13b9055dfedf" name="RaMoNs@RAMONS-LAPTOP 2012-01-05 20:30:27" runUser="RaMoNs-Laptop\RaMoNs" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Configuración de pruebas predeterminada" id="1fcf74e1-67c8-4b9b-b242-8df3981efa42">
+    <Deployment runDeploymentRoot="RaMoNs_RAMONS-LAPTOP 2012-01-05 20_30_27">
+      <DeploymentItem filename="C:\Users\RaMoNs\Documents\Visual Studio 2010\Projects\juegosMVC\juegosMVC\bin\juegosMVC.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-01-05T20:30:27.2191084-03:00" queuing="2012-01-05T20:30:27.5311263-03:00" start="2012-01-05T20:30:27.6771346-03:00" finish="2012-01-05T20:30:29.5712430-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index" storage="c:\users\ramons\documents\visual studio 2010\projects\juegosmvc\juegosmvc.tests\bin\release\juegosmvc.tests.dll" id="64bcf86a-d6d6-2ce4-6310-35b4e2914a46">
+      <Execution id="f2661650-cda9-4c67-ab7b-9c089aad6159" />
+      <TestMethod codeBase="C:/Users/RaMoNs/Documents/Visual Studio 2010/Projects/juegosMVC/juegosMVC.Tests/bin/Release/juegosMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="juegosMVC.Tests.Controllers.HomeControllerTest, juegosMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="64bcf86a-d6d6-2ce4-6310-35b4e2914a46" executionId="f2661650-cda9-4c67-ab7b-9c089aad6159" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f2661650-cda9-4c67-ab7b-9c089aad6159" testId="64bcf86a-d6d6-2ce4-6310-35b4e2914a46" testName="Index" computerName="RAMONS-LAPTOP" duration="00:00:00.2413137" startTime="2012-01-05T20:30:27.8181427-03:00" endTime="2012-01-05T20:30:29.2652255-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f2661650-cda9-4c67-ab7b-9c089aad6159">
+    </UnitTestResult>
+  </Results>
+</TestRun>
